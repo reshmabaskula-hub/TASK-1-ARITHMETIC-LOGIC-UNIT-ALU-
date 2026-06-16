@@ -76,13 +76,13 @@ The addition operation produced the correct sum, subtraction generated the corre
  Embedded systems 
  Digital signal processors
  Computer Architecture
+ Communication systems
  Industrail automation systems
  Roboticss and control system
- Communication systems
 # Advantages
+ Easy to implement and verify
  Simple and efficient design.
- Performs multiple operations using a single hardware block.
- Easy to implement and verify.
+ Performance multiple operations using a single  block
  High-speed operation.
  Scalable to larger bit widths.
  Forms the foundation of modern processors.
