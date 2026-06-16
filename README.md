@@ -71,32 +71,32 @@ Output = 0101
 The simulation results verify that the ALU performs all arithmetic and logical operations correctly. The output changes according to the selected operation without any delay, proving that the design functions as a combinational circuit.
 The addition operation produced the correct sum, subtraction generated the correct difference, and all logical operations produced expected outputs. The waveform clearly shows the response of the ALU to different control signals.
 # Applications
-• Microprocessors
-• Microcontrollers
-• Embedded Systems
-• Digital Signal Processors
-• Computer Architecture
-• Industrial Automation Systems
-• Robotics and Control Systems
-• Communication Systems
+ Microprocessors 
+ Microcontrollers
+ Embedded systems 
+ Digital signal processors
+ Computer Architecture
+ Industrail automation systems
+ Roboticss and control system
+ Communication systems
 # Advantages
-• Simple and efficient design.
-• Performs multiple operations using a single hardware block.
-• Easy to implement and verify.
-• High-speed operation.
-• Scalable to larger bit widths.
-• Forms the foundation of modern processors.
+ Simple and efficient design.
+ Performs multiple operations using a single hardware block.
+ Easy to implement and verify.
+ High-speed operation.
+ Scalable to larger bit widths.
+ Forms the foundation of modern processors.
 # Limitations
-• Supports only 4-bit operations.
-• Does not include multiplication or division.
-• Does not generate carry or overflow flags.
-• Limited number of logical operations.
+ Supports only 4-bit operations.
+ Does not include multiplication or division.
+ Does not generate carry or overflow flags.
+ Limited number of logical operations.
 # Future Scope
 The ALU can be improved by:
-• Expanding to 8-bit, 16-bit, or 32-bit architecture.
-• Adding multiplication and division operations.
-• Implementing shift and rotate operations.
-• Adding carry, borrow, and overflow detection.
-• Integrating with a complete processor design.
+ Expanding to 8-bit, 16-bit, or 32-bit architecture.
+ Adding multiplication and division operations.
+ Implementing shift and rotate operations.
+ Adding carry, borrow, and overflow detection.
+ Integrating with a complete processor design.
 # Conclusion
 The objective of designing and implementing a 4-bit Arithmetic Logic Unit using Verilog HDL was successfully achieved. The ALU was capable of performing addition, subtraction, AND, OR, XOR, and NOT operations based on the selection input. A comprehensive testbench was developed to verify the functionality of the design. Simulation results confirmed that the ALU generated correct outputs for all operations. This project provided practical exposure to digital logic design, hardware description language programming, and simulation-based verification. The knowledge gained from this project forms a strong foundation for designing more advanced digital systems and processor architectures.
